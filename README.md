@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1128560922139574312.gif?size=96"> Dak's here!</h1>
+<h1 align="center"><img src="https://media.tenor.com/0EqDB9w9CkEAAAAi/tey.gif"> Dak's here!</h1>
 
 <h4 align='center'>
  shitpost enjoyer
