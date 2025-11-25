@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.tenor.com/0EqDB9w9CkEAAAAi/tey.gif" width="50" height="60"> Dak's here! <img src="https://media.tenor.com/wiMyvo8ZFN0AAAAi/pinguim-penguin.gif" width="50" height="60"></h1>
+<h1 align="center"><img src="https://media.tenor.com/0EqDB9w9CkEAAAAi/tey.gif" width="50" height="60"> Dak's here! <img src="https://media.tenor.com/wiMyvo8ZFN0AAAAi/pinguim-penguin.gif" width="70" height="80"></h1>
 
 <h4 align='center'>
  shitpost enjoyer
