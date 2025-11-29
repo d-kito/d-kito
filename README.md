@@ -16,7 +16,7 @@
 
 ### Things I use:
 
-[![](https://skillicons.dev/icons?i=ps,ae,pr,py,unity,java,html,css,javascript,php,)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ps,ae,pr,py,unity,java,html,css,javascript,php,react,)](https://skillicons.dev)
 
 ### My Exact Location:
 
